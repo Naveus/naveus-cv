@@ -1,5 +1,7 @@
 # Kerem Kaan | Kişisel CV & Portfolyo
 
+**🌍 Canlı Site:** [0naveus.netlify.app](https://0naveus.netlify.app/)
+
 Kişisel CV ve portfolyo web sitemin kaynak koduna hoş geldiniz! Bu proje; yeteneklerimi, projelerimi ve profesyonel geçmişimi sergilemek için oluşturulmuş modern, etkileşimli ve kaydırılabilir bir web uygulamasıdır.
 
 ## 🌟 Genel Bakış
