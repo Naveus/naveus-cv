@@ -30,13 +30,13 @@ export function Hero() {
                     className="flex flex-col items-center gap-6"
                 >
                     <p className="text-xl md:text-2xl text-slate-300 max-w-2xl font-light leading-relaxed">
-                        Software Developer building modern web and mobile applications with stunning interactive aesthetics.
+                        Modern web ve mobil uygulamalar için çarpıcı ve etkileşimli dijital deneyimler geliştiren Yazılım Geliştiricisi.
                     </p>
 
-                    <Link href="https://github.com/keremkaan099" target="_blank" rel="noopener noreferrer" className="pointer-events-auto">
+                    <Link href="https://github.com/Naveus" target="_blank" rel="noopener noreferrer" className="pointer-events-auto">
                         <div className="flex items-center gap-3 bg-slate-900 border border-slate-700 hover:border-slate-500 hover:bg-slate-800 py-3 px-6 rounded-full transition-all">
                             <Github className="w-5 h-5" />
-                            <span>View GitHub Repos</span>
+                            <span>GitHub Repolarımı Gör</span>
                         </div>
                     </Link>
                 </motion.div>

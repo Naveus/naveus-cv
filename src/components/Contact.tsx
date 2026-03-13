@@ -12,9 +12,9 @@ export function Contact() {
                 viewport={{ once: true }}
                 transition={{ duration: 0.8 }}
             >
-                <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white">Let&apos;s Connect</h2>
+                <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white">İletişime Geçelim</h2>
                 <p className="text-lg text-slate-400 mb-12 max-w-2xl mx-auto">
-                    Whether you have a question, a project idea, or just want to say hi, my inbox is always open.
+                    Bir sorunuz, bir proje fikriniz varsa veya sadece merhaba demek isterseniz, mesaj kutum her zaman açık.
                 </p>
 
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-6">

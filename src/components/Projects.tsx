@@ -5,26 +5,26 @@ import { Smartphone, MonitorPlay, Code, GitBranch } from "lucide-react";
 export function Projects() {
     const projects = [
         {
-            title: "Mobile App Development",
-            description: "Building cross-platform mobile applications with React Native, focusing on smooth native-like performance and beautiful UIs.",
+            title: "Mobil Uygulama Geliştirme",
+            description: "React Native ile çapılı platform mobil uygulamalar geliştirme, akıcı performans ve güzel arayüzlere odaklanma.",
             icon: <Smartphone className="w-6 h-6 text-indigo-400" />,
-            tag: "App Dev"
+            tag: "Mobil Geliştirme"
         },
         {
-            title: "Web Platforms",
-            description: "Architecting scalable web platforms and CMS systems using Next.js and React. Emphasizing SEO and high Lighthouse scores.",
+            title: "Web Platformları",
+            description: "Next.js ve React kullanarak ölçeklenebilir web platformları ve CMS sistemleri mimarisi. SEO ve yüksek Lighthouse skorlarına önem verme.",
             icon: <MonitorPlay className="w-6 h-6 text-purple-400" />,
-            tag: "Web Dev"
+            tag: "Web Geliştirme"
         },
         {
-            title: "Open Source Repos",
-            description: "Active contributor and creator of various repositories on GitHub, ranging from UI components to utility libraries.",
+            title: "Açık Kaynak Projeler",
+            description: "GitHub'da UI bileşenlerinden yardımcı kütüphanelere kadar çeşitli depolarda aktif katkı sağlayıcı ve yaratıcı.",
             icon: <GitBranch className="w-6 h-6 text-blue-400" />,
-            tag: "Open Source"
+            tag: "Açık Kaynak"
         },
         {
-            title: "Interactive UIs",
-            description: "Specializing in WebGL, Framer Motion, and complex animations to craft memorable digital experiences.",
+            title: "Etkileşimli Arayüzler",
+            description: "Unutulmaz dijital deneyimler tasarlamak için WebGL, Framer Motion ve karmaşık animasyonlarda uzmanlık.",
             icon: <Code className="w-6 h-6 text-pink-400" />,
             tag: "UI/UX"
         }
@@ -40,10 +40,10 @@ export function Projects() {
                 className="mb-16"
             >
                 <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white text-center">
-                    What I <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-500">Do</span>
+                    Neler <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-500">Yapıyorum?</span>
                 </h2>
                 <p className="text-center text-slate-400 max-w-2xl mx-auto text-lg">
-                    From ideation to deployment, I cover the full stack to build robust apps and websites. Check out my GitHub for detailed code repositories.
+                    Fikir aşamasından yayına kadar, sağlam uygulamalar ve web siteleri oluşturmak için tam yığın (full stack) çözümler üretiyorum. Detaylı kod depolarım için GitHub'ıma göz atın.
                 </p>
             </motion.div>
 
